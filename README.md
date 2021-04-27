@@ -62,8 +62,8 @@ https://user-images.githubusercontent.com/61203639/115377704-8a494e80-a1d8-11eb-
   <li> One led </li>
   <li> Push-button switch x2 </li>
   <li> One breadboard with 830 points </li>
-  <li> Hook-up cables (fire mama-tata) </li>
-  <li> Jumper wires (fire tata-tata)</li>
+  <li> Hook-up cables (male to female wires) </li>
+  <li> Jumper wires (male to male wires)</li>
   <li> Computer speaker </li>
 </ul>
 
